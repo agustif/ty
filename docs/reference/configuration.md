@@ -207,7 +207,7 @@ Defaults to `full`.
 
 **Default value**: `full`
 
-**Type**: `full | concise`
+**Type**: `full | concise | json`
 
 **Example usage** (`pyproject.toml`):
 
